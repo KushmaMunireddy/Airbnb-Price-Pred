@@ -107,7 +107,7 @@ We experimented with **multiple regression models**, and **XGBoost** outperforme
 
 ## 🤝 **Contributors**
 👤 **Kushma Munireddy**  
-📩 [kushamam1212@gmail.com@gmail.com](mailto:navabhargavg@gmail.com)  
+📩 [kushamam1212@gmail.com](mailto:kushamam1212@gmail.com)  
 🔗 [LinkedIn](http://linkedin.com/in/kushma-m-196723151) | 🌐 [GitHub](https://github.com/KushmaMunireddy)  
 
 
